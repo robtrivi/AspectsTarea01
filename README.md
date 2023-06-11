@@ -4,7 +4,7 @@ En nuestro programa el aspecto `ColorCAspect.aj` es el que hace el rol del obser
 
 #### Implementación de la funcionalidad adicional 
 
-Dentro del advice al ejecutarse el observador, además de imprimirse por consola, se implementó el método para preservar en un log los cambios del fondo de nuestra ventana, adicionalmente de la hora y fecha exacta permitiendo el monitoreo y depuración de la aplicación manteniendo la persistencia de los datos en el archivo `colorLogger.txt`.
+Dentro del advice al ejecutarse el observador, además de imprimirse por consola, se implementó el método para preservar en un log los cambios del fondo de nuestra ventana, adicionalmente de la hora y fecha exacta permitiendo el monitoreo y depuración de la aplicación manteniendo la persistencia de los datos en el archivo `colorLogger.txt`, ademas implementamos que el Label se configure con el ultimo color.
 
 Este es un claro ejemplo de cross-cutting concern debido a que involucra diferentes partes del código
 sin estar relacionado a la lógica principal de nuestro programa.
