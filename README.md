@@ -14,3 +14,6 @@ Color
 
 ColorCAspect
 ![ColorCAspect](https://github.com/robtrivi/AspectsTarea01/blob/main/WhatsApp%20Image%202023-06-10%20at%2023.18.11.jpeg)
+
+Configuracion
+![WhatsApp Image 2023-06-10 at 23 46 40](https://github.com/robtrivi/AspectsTarea01/assets/95447422/a917a1f6-6d53-4908-bcf8-dac916dc16b3)
