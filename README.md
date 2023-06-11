@@ -9,4 +9,8 @@ Dentro del advice al ejecutarse el observador, además de imprimirse por consola
 Este es un claro ejemplo de cross-cutting concern debido a que involucra diferentes partes del código
 sin estar relacionado a la lógica principal de nuestro programa.
 
+Color
 ![Color](https://github.com/robtrivi/AspectsTarea01/blob/main/WhatsApp%20Image%202023-06-10%20at%2023.17.13.jpeg)
+
+ColorCAspect
+![ColorCAspect](https://github.com/robtrivi/AspectsTarea01/blob/main/WhatsApp%20Image%202023-06-10%20at%2023.18.11.jpeg)
